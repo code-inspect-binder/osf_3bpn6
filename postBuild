@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo 'setwd("/home/jovyan/3bpn6_src/Space use")' >> /home/jovyan/.Rprofile
